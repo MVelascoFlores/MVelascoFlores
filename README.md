@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning tensorflow and openCV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in:
-    - Linkedin [https://www.linkedin.com/in/mvelasco93/]
-    - Instagram [https://www.instagram.com/velascoflores93/]
+    - [Linkedin](https://www.linkedin.com/in/mvelasco93/)
+    - [Instagram](https://www.instagram.com/velascoflores93/)
 
 <!---
 MVelascoFlores/MVelascoFlores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
